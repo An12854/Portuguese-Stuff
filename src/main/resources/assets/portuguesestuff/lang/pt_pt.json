@@ -1,0 +1,15 @@
+{
+  "itemGroup.ptstab": "Coisas portuguesas",
+
+  "item.portuguesestuff.lupin_bean": "Tremoço",
+  "item.portuguesestuff.raw_lupin_bean": "Tremoço cru",
+  "item.portuguesestuff.lupine": "Tremoçeiro",
+
+  "block.portuguesestuff.cork_oak_wood": "Madeira de sobreiro",
+  "block.portuguesestuff.cork_oak_log": "Tronco de sobreiro",
+  "block.portuguesestuff.stripped_cork_oak_wood": "Madeira de sobreiro descascada",
+  "block.portuguesestuff.stripped_cork_oak_log": "Tronco de sobreiro descascado",
+  "block.portuguesestuff.cork_oak_leaves": "Folhas de sobreiro",
+  "block.portuguesestuff.cork_oak_planks": "Tábuas de sobreiro",
+  "block.portuguesestuff.cork_oak_sapling": "Rebento de sobreiro"
+}

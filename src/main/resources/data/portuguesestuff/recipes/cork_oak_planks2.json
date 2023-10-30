@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "item": "portuguesestuff:stripped_cork_oak_log"
+    }
+  ],
+  "result": {
+    "item": "portuguesestuff:cork_oak_planks",
+    "count": 4
+  }
+}

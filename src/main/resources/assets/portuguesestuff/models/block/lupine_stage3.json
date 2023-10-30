@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "portuguese_stuff:block/lupine_stage3"
+
+  }
+}

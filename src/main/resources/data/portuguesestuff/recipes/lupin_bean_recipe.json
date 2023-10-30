@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "portuguesestuff:raw_lupin_bean"
+    },
+    "result": "portuguesestuff:lupin_bean",
+    "experience": 0.1,
+    "cookingtime": 75
+}

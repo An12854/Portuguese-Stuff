@@ -1,0 +1,15 @@
+{
+  "itemGroup.ptstab": "Portuguese Stuff",
+
+  "item.portuguesestuff.lupin_bean": "Lupin Bean",
+  "item.portuguesestuff.raw_lupin_bean": "Raw Lupin Bean",
+  "item.portuguesestuff.lupine": "Yellow Lupine",
+
+  "block.portuguesestuff.cork_oak_wood": "Cork Oak Wood",
+  "block.portuguesestuff.cork_oak_log": "Cork Oak Log",
+  "block.portuguesestuff.stripped_cork_oak_wood": "Stripped Cork Oak Wood",
+  "block.portuguesestuff.stripped_cork_oak_log": "Stripped Cork Oak Log",
+  "block.portuguesestuff.cork_oak_leaves": "Cork Oak Leaves",
+  "block.portuguesestuff.cork_oak_planks": "Cork Oak Planks",
+  "block.portuguesestuff.cork_oak_sapling": "Cork Oak Sapling"
+}
